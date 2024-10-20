@@ -38,7 +38,7 @@ public class prac1{
             }
         }
         
-        
+        System.out.println("Dang Cuh"):
     }
 
     public static int SecondLargestNumber(ArrayList<Integer> array){
